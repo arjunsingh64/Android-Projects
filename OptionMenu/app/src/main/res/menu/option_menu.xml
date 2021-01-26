@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Settings"
+          android:id="@+id/m1"
+          app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/m2"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="Search"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/m3"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="Camera"
+        app:showAsAction="always" />
+
+
+</menu>
