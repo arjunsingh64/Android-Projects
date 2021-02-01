@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Recycler</string>
+
+    <string-array name="Lang">
+
+        <item>Cpp</item>
+        <item>JAVA</item>
+        <item>PYTHON</item>
+        <item>C</item>
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>JS</item>
+        <item>ANGULAR</item>
+        <item>PHP</item>
+        <item>KOTLIN</item>
+    </string-array>
+</resources>
